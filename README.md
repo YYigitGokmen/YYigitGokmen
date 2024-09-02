@@ -6,7 +6,7 @@ I am a former tourism professional transitioning into the world of coding. I'm e
 ## Skills
 - 🎓 Tourism and Hospitality Management
 - 😊 Customer Service
-- 💡 Basic Coding (Learning phase)
+- 💡 Coding (Learning phase)
 
 ## Currently Learning
 - 🖥️ C#
