@@ -7,6 +7,10 @@ I am a former tourism professional transitioning into the world of coding. I'm e
 - 🎓 Tourism and Hospitality Management
 - 😊 Customer Service
 - 💡 Coding (Learning phase)
+  
+## Things I code with
+
+[![My Skills](https://skillicons.dev/icons?i=net,cs,postgresql,js,html,css,)](https://skillicons.dev)
 
 ## Currently Learning
 - 🖥️ C#
