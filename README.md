@@ -8,7 +8,7 @@ I am a former tourism professional transitioning into the world of coding. I'm e
 - 😊 Customer Service
 - 💡 Coding (Learning phase)
   
-## Things I code with
+## Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=net,cs,postgresql,js,html,css,)](https://skillicons.dev)
 
