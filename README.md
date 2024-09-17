@@ -21,7 +21,7 @@ I am a former tourism professional transitioning into the world of coding. I'm e
 - 🏋️‍♂️ Fitness
 - 🏋️ Powerlifting
 
-Feel free to reach out and connect with me!
+### Feel free to reach out and connect with me!
 
 
 
