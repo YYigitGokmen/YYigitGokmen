@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Yiğit
 
 ## About Me
-I am a former tourism professional transitioning into the world of coding. I'm excited to learn and grow in this field. 🌍💻
+I am a former tourism professional transitioning into the world of software. I'm excited to learn and grow in this field. 🌍💻
 
 ## Skills
 - 🎓 Tourism and Hospitality Management
