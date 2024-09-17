@@ -23,10 +23,10 @@ I am a former tourism professional transitioning into the world of coding. I'm e
 
 ### Feel free to reach out and connect with me!
 
-<a href="https://www.linkedin.com/in/y%C4%B1lmaz-yi%C4%9Fit-g%C3%B6kmen/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/y%C4%B1lmaz-yi%C4%9Fit-g%C3%B6kmen/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="35px"/></a>
 
+<a href="https://medium.com/@gokmenyyigit"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="35px"/></a>
 
-https://www.linkedin.com/in/y%C4%B1lmaz-yi%C4%9Fit-g%C3%B6kmen/
 
 
 
