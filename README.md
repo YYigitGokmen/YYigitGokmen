@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Yiğit
 
 ## About Me
-I am a former tourism professional transitioning into the world of software. I'm excited to learn and grow in this field. 🌍💻
+I am a former tourism professional transitioning into the world of SaaS. I'm excited to learn and grow in this field. 🌍💻
 
 ## Skills
 - 🎓 Tourism and Hospitality Management
 - 😊 Customer Service
-- 💡 Coding (Learning phase)
+
   
 ## Languages and Tools
 
