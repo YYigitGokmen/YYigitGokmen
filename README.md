@@ -3,9 +3,6 @@
 ## About Me
 I am a former tourism professional transitioning into the world of SaaS. I'm excited to learn and grow in this field. 🌍💻
 
-## Skills
-- 🎓 Tourism and Hospitality Management
-- 😊 Customer Service
 
   
 ## Languages and Tools
